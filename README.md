@@ -1,5 +1,5 @@
 # BiometricAuthenticateSwiftHelper
-This respository is a simple project for Face ID Authentication for iOS device using LocalAuthentication Framework and infoPlist 'Privacy - Face ID Usage Description'.
+This respository is a simple project for Biometric Authentication for iOS device using LocalAuthentication Framework and infoPlist 'Privacy - Face ID Usage Description'.
 
 ## Source
 - https://www.youtube.com/watch?v=SHmDljfu2lk
